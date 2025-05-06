@@ -1,0 +1,6 @@
+# Terraform artifacts
+.terraform
+*.lock.hcl
+
+# Lambda function artifacts
+*zip
